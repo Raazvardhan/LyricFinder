@@ -3,7 +3,7 @@
 ![LyricFinder Logo](LyricFinder.app.png)
 
 ## Overview
-LyricFinder is a cutting-edge lyrics discovery app that allows users to effortlessly find the lyrics to their favorite songs. Whether you're a passionate music lover or just looking to sing along with your favorite tunes, LyricFinder has got you covered. The app utilizes the powerful lyrics.ovh API to provide users with real-time access to a vast collection of song lyrics, making it a must-have tool for all music enthusiasts.
+Simple web app. Quick lyrics search. Real-time access to a vast lyrics collection with lyrics.ovh API. Perfect for music lovers.
 
 ## Key Features
 - **Effortless Lyrics Search:** Using LyricFinder, you can easily search for lyrics by entering the name of your favorite artist or song. The app quickly retrieves the most relevant and accurate lyrics from its extensive database.
