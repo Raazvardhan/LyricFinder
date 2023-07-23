@@ -3,7 +3,7 @@
 ![LyricFinder Logo](LyricFinder.app.png)
 
 ## Overview
-Simple web app. Quick lyrics search. Real-time access to a vast lyrics collection with lyrics.ovh API. Perfect for music lovers.
+Simple web app. Quick lyrics search. Real-time access to a vast lyrics collection with lyrics.ovh API. Perfect for music lovers. Effortlessly find your favorite songs. Explore new tracks with ease. Sing along to your beloved tunes. Unleash the power of lyrics.
 
 ## Key Features
 - **Effortless Lyrics Search:** Using LyricFinder, you can easily search for lyrics by entering the name of your favorite artist or song. The app quickly retrieves the most relevant and accurate lyrics from its extensive database.
