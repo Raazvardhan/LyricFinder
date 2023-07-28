@@ -1,6 +1,5 @@
 # LyricFinder
-
-![LyricFinder Logo](LyricFinder.app.png)
+![IMG_20230723_052249_097](https://github.com/Raazvardhan/Raazvardhan/assets/139915269/7a72d198-2d25-4a9a-b753-d8a179a40c50)
 
 ## Overview
 Simple web app. Quick lyrics search. Real-time access to a vast lyrics collection with lyrics.ovh API. Perfect for music lovers. Effortlessly find your favorite songs. Explore new tracks with ease. Sing along to your beloved tunes. Unleash the power of lyrics.
